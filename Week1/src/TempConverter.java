@@ -8,4 +8,4 @@ public class TempConverter {
  System.out.println("Temprature in farenheit is :: "+farenheit + " F");
  input.close();
 }
-}
+}    
