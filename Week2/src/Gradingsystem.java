@@ -19,4 +19,5 @@ import java.util.Scanner;
 
                 System.out.println("Fail");
              }
+             x.close();
         }}
