@@ -8,13 +8,13 @@ public class NumberReversal {
     }
 
     public int reverseNumber(int num){
-        int rev = 0;
+        int reversed = 0;
         while(num !=0)
         {
             int digit= num % 10;
-            rev=rev*10 + digit;
+            reversed=reversed*10 + digit;
             num= num/10;
         }
-        return rev;
+        return reversed;
     }
 }
