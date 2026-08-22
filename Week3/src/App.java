@@ -1,3 +1,4 @@
+// ye code bhi ABHISHEK PANDIT JIII ka hi haiiii 
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
@@ -5,6 +6,9 @@ public class App {
 
         ArrayStatistics stats = new ArrayStatistics();
         stats.runAS(input);
+
+        LinearSearchToolkit search = new LinearSearchToolkit();
+        search.toolkit(input);
        
     }
 }

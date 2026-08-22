@@ -31,7 +31,7 @@ public class ArrayStatistics {
         }
         return total;
     }
-
+  
     public double average(int[] values) {
         return (double) sum(values) / values.length;
     }
