@@ -7,11 +7,14 @@ public class App {
        // ArrayStatistics stats = new ArrayStatistics();
         //stats.runAS(input);
 
-        LinearSearchToolkit search = new LinearSearchToolkit();
-        search.toolkit(input);
+        //LinearSearchToolkit search = new LinearSearchToolkit();
+        //search.toolkit(input);
        
         //MatrixOperations obj = new MatrixOperations();
         //obj.run(input);
+
+        //ArrayTransformations AT = new ArrayTransformations();
+        //AT.runTransformation(input);
 
         input.close();
     }
