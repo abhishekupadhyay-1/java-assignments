@@ -27,6 +27,9 @@ public class App {
         ObjectReferenceLab ggn = new ObjectReferenceLab();
         ggn.ObjectReferenceLab_func();
 
+        TextProfile tp = new TextProfile();
+        tp.TextProfile_func(args);
+
 
         input.close();
     }
