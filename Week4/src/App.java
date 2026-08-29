@@ -12,6 +12,9 @@ public class App {
         BankAccount obj1 = new BankAccount();
         obj1.BankAccount_func();
 
+        RectangleModel obj2 = new RectangleModel();
+        obj2.RectangleModel_func();
+
         input.close();
     }
 }
