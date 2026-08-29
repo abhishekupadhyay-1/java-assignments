@@ -15,8 +15,11 @@ public class App {
         //RectangleModel obj2 = new RectangleModel();
         //obj2.RectangleModel_func();
 
-        BookLoan obj3 = new BookLoan();
-        obj3.BookLoan_func();
+        //BookLoan obj3 = new BookLoan();
+        //obj3.BookLoan_func();
+
+        ProductInventory scorpio = new ProductInventory();
+        scorpio.ProductInventory_func();
 
         input.close();
     }
