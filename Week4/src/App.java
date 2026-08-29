@@ -9,6 +9,9 @@ public class App {
         StudentRecord SR = new StudentRecord();
         SR.StudentRecord_func();
 
+        BankAccount obj1 = new BankAccount();
+        obj1.BankAccount_func();
+
         input.close();
     }
 }
