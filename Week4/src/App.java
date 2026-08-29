@@ -18,8 +18,12 @@ public class App {
         //BookLoan obj3 = new BookLoan();
         //obj3.BookLoan_func();
 
-        ProductInventory scorpio = new ProductInventory();
-        scorpio.ProductInventory_func();
+        //ProductInventory scorpio = new ProductInventory();
+        //scorpio.ProductInventory_func();
+
+        CourseEnrollment ncr = new CourseEnrollment();
+        ncr.CourseEnrollment_func();
+
 
         input.close();
     }
