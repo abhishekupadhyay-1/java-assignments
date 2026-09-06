@@ -1,4 +1,4 @@
-//25csu014 Abhishekkkkkkkkkkkkkk
+//25csu014 Abhishekkkkkkkkkkk
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
